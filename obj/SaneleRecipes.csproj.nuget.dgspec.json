@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\SaneleRecipes\\SaneleRecipes\\SaneleRecipes.csproj": {}
+    "C:\\Users\\Phalanndwa Munyai\\source\\repos\\SaneleRecipes\\SaneleRecipes\\SaneleRecipes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\SaneleRecipes\\SaneleRecipes\\SaneleRecipes.csproj": {
+    "C:\\Users\\Phalanndwa Munyai\\source\\repos\\SaneleRecipes\\SaneleRecipes\\SaneleRecipes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\SaneleRecipes\\SaneleRecipes\\SaneleRecipes.csproj",
+        "projectUniqueName": "C:\\Users\\Phalanndwa Munyai\\source\\repos\\SaneleRecipes\\SaneleRecipes\\SaneleRecipes.csproj",
         "projectName": "SaneleRecipes",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\SaneleRecipes\\SaneleRecipes\\SaneleRecipes.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\SaneleRecipes\\SaneleRecipes\\obj\\",
+        "projectPath": "C:\\Users\\Phalanndwa Munyai\\source\\repos\\SaneleRecipes\\SaneleRecipes\\SaneleRecipes.csproj",
+        "packagesPath": "C:\\Users\\Phalanndwa Munyai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Phalanndwa Munyai\\source\\repos\\SaneleRecipes\\SaneleRecipes\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Phalanndwa Munyai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

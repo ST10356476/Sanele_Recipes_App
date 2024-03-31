@@ -149,6 +149,7 @@ namespace SaneleRecipes
             }
 
             Console.WriteLine("===============================");
+
             // Find an empty slot in the recipes array to store the new recipe
             int emptyIndex = Array.FindIndex(recipes, r => r == null);
             if (emptyIndex != -1)
