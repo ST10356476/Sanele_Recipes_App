@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\bin\Debug\net8.0\SaneleRecipes.exe
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\bin\Debug\net8.0\SaneleRecipes.deps.json
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\bin\Debug\net8.0\SaneleRecipes.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\bin\Debug\net8.0\SaneleRecipes.dll
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\bin\Debug\net8.0\SaneleRecipes.pdb
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\SaneleRecipes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\SaneleRecipes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\SaneleRecipes.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\SaneleRecipes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\SaneleRecipes.dll
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\refint\SaneleRecipes.dll
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\SaneleRecipes.pdb
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\SaneleRecipes.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\ref\SaneleRecipes.dll
