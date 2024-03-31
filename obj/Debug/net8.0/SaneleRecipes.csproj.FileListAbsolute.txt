@@ -12,3 +12,4 @@ C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\refint
 C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\SaneleRecipes.pdb
 C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\SaneleRecipes.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\ref\SaneleRecipes.dll
+C:\Users\Lenovo\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\SaneleRecipes.sourcelink.json
