@@ -1,4 +1,4 @@
-﻿using SaneleRecipes;
+using SaneleRecipes;
 
 public class Program
 {
