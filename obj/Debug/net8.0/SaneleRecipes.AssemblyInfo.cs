@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaneleRecipes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+058886fb340dbca630b59e829bdbd76533a61a83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a93b531812e072b980c953b59c6824c596789463")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaneleRecipes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaneleRecipes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

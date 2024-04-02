@@ -24,6 +24,7 @@ namespace SaneleRecipes
         // Output recipe details
         public void DisplayRecipe()
         {
+            Console.WriteLine("================================");
             Console.WriteLine("\nRecipe Details:");
             Console.WriteLine("Ingredients:");
             foreach (var ingredient in Ingredients)
@@ -36,6 +37,8 @@ namespace SaneleRecipes
             {
                 Console.WriteLine($"{i + 1}. {Steps[i].Description}");
             }
+
+            Console.WriteLine("================================");
         }
 
         // Checks if there are existing/store recipes and the user is able to scale their measurements
