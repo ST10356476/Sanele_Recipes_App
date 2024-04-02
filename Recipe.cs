@@ -89,7 +89,7 @@ namespace SaneleRecipes
                 Console.WriteLine("Invalid recipe number.");
             }
 
-            Console.WriteLine("===============================");
+            Console.WriteLine("================================");
 
         }
 
@@ -148,8 +148,7 @@ namespace SaneleRecipes
                 recipe.Steps[i] = new Step { Description = description };
             }
 
-            Console.WriteLine("===============================");
-
+            Console.WriteLine("================================");
             // Find an empty slot in the recipes array to store the new recipe
             int emptyIndex = Array.FindIndex(recipes, r => r == null);
             if (emptyIndex != -1)
@@ -162,7 +161,7 @@ namespace SaneleRecipes
                 Console.WriteLine("Recipe storage is full. Cannot add new recipe.");
             }
 
-            Console.WriteLine("===============================");
+            Console.WriteLine("================================");
         }
 
 
