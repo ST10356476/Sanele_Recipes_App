@@ -8,6 +8,8 @@ namespace SaneleRecipes
 {
     class Ingredient
     {
+
+        // Get and set properties fofr all required ingredients details.
         public string Name { get; set; }
         public double Quantity { get; set; }
         public string Unit { get; set; }

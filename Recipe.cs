@@ -8,15 +8,20 @@ namespace SaneleRecipes
 {
     class Recipe
     {
+
+        // Initialize the ingredient and Steps arrays
         public Ingredient[] Ingredients { get; set; }
         public Step[] Steps { get; set; }
 
+        // Instantiate objects
         public Recipe(int ingredientCount, int stepCount)
         {
             Ingredients = new Ingredient[ingredientCount];
             Steps = new Step[stepCount];
         }
 
+
+        // Output recipe details
         public void DisplayRecipe()
         {
             Console.WriteLine("\nRecipe Details:");
@@ -33,6 +38,7 @@ namespace SaneleRecipes
             }
         }
 
+        // Checks if there are existing/store recipes and the user is able to scale their measurements
         public static void DisplayExistingRecipes(Recipe[] recipes)
         {
             Console.WriteLine("\nExisting Recipes:");
@@ -54,7 +60,7 @@ namespace SaneleRecipes
 
             Console.Write("Enter the recipe number to view details (or 0 to go back to the menu): ");
             int recipeNumber;
-            if (!int.TryParse(Console.ReadLine(), out recipeNumber) || recipeNumber < 0 || recipeNumber > recipes.Length)
+            if (!int.TryParse(Console.ReadLine(), out recipeNumber) || recipeNumber < 0 || recipeNumber > recipes.Length)       // "int.TryParse" validate entered values as the user is entering them (Zolfaghari, 2016). 
             {
                 Console.WriteLine("Invalid input.");
                 return;
@@ -94,6 +100,7 @@ namespace SaneleRecipes
         }
 
 
+        // Perform calculation for scaling the recipe measurements
         public void ScaleRecipe(double factor)
         {
             foreach (var ingredient in Ingredients)
@@ -102,6 +109,8 @@ namespace SaneleRecipes
             }
         }
 
+
+        // Add/stores new recipe's details
         public static void AddNewRecipe(Recipe[] recipes)
         {
             Console.Write("Enter the number of ingredients: ");
@@ -150,6 +159,7 @@ namespace SaneleRecipes
 
             Console.WriteLine("===============================");
 
+
             // Find an empty slot in the recipes array to store the new recipe
             int emptyIndex = Array.FindIndex(recipes, r => r == null);
             if (emptyIndex != -1)
@@ -166,6 +176,7 @@ namespace SaneleRecipes
         }
 
 
+        // Clear all stored recipes' details
         public static void ClearAllData(Recipe[] recipes)
         {
             for (int i = 0; i < recipes.Length; i++)
@@ -175,3 +186,9 @@ namespace SaneleRecipes
         }
     }
 }
+
+
+// Code Attribution
+/*
+ * Zolfaghari. 2016. How the int.TryParse actually works. [online] Available at: https://stackoverflow.com/a/34987493 [Accessed 02 April 2024].
+ */
