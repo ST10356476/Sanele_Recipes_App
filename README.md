@@ -2,7 +2,7 @@
 Sanele's Recipe App
 
 * Introduction
-Welcome to Sanele's Recipe App! This command-line application allows users to manage and interact with recipes. Users can view existing recipes, add new recipes, clear all stored recipes, and exit the application.
+  - Welcome to Sanele's Recipe App!. This command-line application allows users to manage and interact with recipes. Users can view existing recipes, add new recipes, clear all stored recipes, and exit the application.
 
 * Features
   - View Recipes: Users can view existing recipes stored in the application. They have the option to select a recipe to view its details and can choose to scale the recipe's measurements if desired.
