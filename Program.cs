@@ -50,9 +50,9 @@ public class Program
             Console.WriteLine("\nThank you for using Sanele's Recipe App!");
         }
 
-        catch (Exception e)
+        catch (Exception ex)
         {
-            Console.WriteLine(e.ToString());
+            Console.WriteLine(ex.Message);
         }
     }
 

@@ -89,7 +89,7 @@ namespace SaneleRecipes
                 Console.WriteLine("Invalid recipe number.");
             }
 
-            Console.WriteLine("===============================");
+            Console.WriteLine("================================");
 
         }
 
@@ -162,7 +162,7 @@ namespace SaneleRecipes
                 Console.WriteLine("Recipe storage is full. Cannot add new recipe.");
             }
 
-            Console.WriteLine("===============================");
+            Console.WriteLine("================================");
         }
 
 
