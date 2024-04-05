@@ -14,9 +14,9 @@ public class Program
             Console.WriteLine("===============================");
 
             // Instantiate the object
-            Recipe[] recipes = new Recipe[50];
+            Recipe[] recipes = new Recipe[50];        // Assuming that the user can enter up to 50 recipes for PART 1.
 
-
+            
             bool exit = false;      // will be used to check if the user wants to exit the program.
 
             while (!exit)

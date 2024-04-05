@@ -79,7 +79,7 @@ namespace SaneleRecipes
                 {
                     Console.Write("Enter scaling factor (0.5 for half, 2 for double, 3 for triple): ");
                     double factor;
-                    if (!double.TryParse(Console.ReadLine(), out factor) || factor <= 0)
+                    if (!double.TryParse(Console.ReadLine(), out factor) || factor <= 0 || factor != 0.5 || factor != 2 || factor != 3)
                     {
                         Console.WriteLine("Invalid input.");
                         return;

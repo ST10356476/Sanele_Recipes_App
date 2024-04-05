@@ -28,3 +28,18 @@ C:\Users\Phalanndwa Munyai\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\ne
 C:\Users\Phalanndwa Munyai\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\SaneleRecipes.pdb
 C:\Users\Phalanndwa Munyai\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\SaneleRecipes.genruntimeconfig.cache
 C:\Users\Phalanndwa Munyai\source\repos\SaneleRecipes\SaneleRecipes\obj\Debug\net8.0\ref\SaneleRecipes.dll
+C:\Users\munya\source\repos\Sanele_Recipes_App\bin\Debug\net8.0\SaneleRecipes.exe
+C:\Users\munya\source\repos\Sanele_Recipes_App\bin\Debug\net8.0\SaneleRecipes.deps.json
+C:\Users\munya\source\repos\Sanele_Recipes_App\bin\Debug\net8.0\SaneleRecipes.runtimeconfig.json
+C:\Users\munya\source\repos\Sanele_Recipes_App\bin\Debug\net8.0\SaneleRecipes.dll
+C:\Users\munya\source\repos\Sanele_Recipes_App\bin\Debug\net8.0\SaneleRecipes.pdb
+C:\Users\munya\source\repos\Sanele_Recipes_App\obj\Debug\net8.0\SaneleRecipes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munya\source\repos\Sanele_Recipes_App\obj\Debug\net8.0\SaneleRecipes.AssemblyInfoInputs.cache
+C:\Users\munya\source\repos\Sanele_Recipes_App\obj\Debug\net8.0\SaneleRecipes.AssemblyInfo.cs
+C:\Users\munya\source\repos\Sanele_Recipes_App\obj\Debug\net8.0\SaneleRecipes.csproj.CoreCompileInputs.cache
+C:\Users\munya\source\repos\Sanele_Recipes_App\obj\Debug\net8.0\SaneleRecipes.sourcelink.json
+C:\Users\munya\source\repos\Sanele_Recipes_App\obj\Debug\net8.0\SaneleRecipes.dll
+C:\Users\munya\source\repos\Sanele_Recipes_App\obj\Debug\net8.0\refint\SaneleRecipes.dll
+C:\Users\munya\source\repos\Sanele_Recipes_App\obj\Debug\net8.0\SaneleRecipes.pdb
+C:\Users\munya\source\repos\Sanele_Recipes_App\obj\Debug\net8.0\SaneleRecipes.genruntimeconfig.cache
+C:\Users\munya\source\repos\Sanele_Recipes_App\obj\Debug\net8.0\ref\SaneleRecipes.dll
